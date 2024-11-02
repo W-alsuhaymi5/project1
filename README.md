@@ -1,2 +1,2 @@
 # project1
-all the good thing
+all the good things
